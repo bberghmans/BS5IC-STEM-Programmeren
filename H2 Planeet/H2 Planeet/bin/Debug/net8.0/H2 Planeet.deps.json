@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "H2 Planeet/1.0.0": {
+        "runtime": {
+          "H2 Planeet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H2 Planeet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

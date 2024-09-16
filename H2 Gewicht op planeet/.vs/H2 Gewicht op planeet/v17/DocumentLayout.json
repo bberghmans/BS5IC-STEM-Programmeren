@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS5IC-STEM-Programmeren\\H2 Gewicht op planeet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F612D-A427-48E2-A10B-F757D1EA08EF}|H2 Gewicht op planeet\\H2 Gewicht op planeet.csproj|c:\\users\\bart\\documents\\github\\bs5ic-stem-programmeren\\h2 gewicht op planeet\\h2 gewicht op planeet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F612D-A427-48E2-A10B-F757D1EA08EF}|H2 Gewicht op planeet\\H2 Gewicht op planeet.csproj|solutionrelative:h2 gewicht op planeet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS5IC-STEM-Programmeren\\H2 Gewicht op planeet\\H2 Gewicht op planeet\\Program.cs",
+              "RelativeDocumentMoniker": "H2 Gewicht op planeet\\Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS5IC-STEM-Programmeren\\H2 Gewicht op planeet\\H2 Gewicht op planeet\\Program.cs",
+              "RelativeToolTip": "H2 Gewicht op planeet\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:49:15.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
